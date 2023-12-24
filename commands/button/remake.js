@@ -1,0 +1,30 @@
+module.exports = {name: "remake",
+
+
+
+type: "interaction",
+
+prototype: "button",
+
+code: `$interactionReply[;{newEmbed:{title:***__REMAKE DISCORD SERVER__***}{description:**
+__LIST REMAKE: __
+・REMAKE PERMISSION CHANNEL
+・REMAKE PERMISSION ROLE
+・REMAKE FONT CHANNEL
+・REMAKE SIMBOL CHANNEL
+・REMAKE EMOJI CHANNEL
+
+__REMAKE SERVER:__
+・SERVER SAMP
+・SERVER STORE
+・SERVER COMMUNITY
+
+__「METODE PEMBAYARAN」__
+・OVO
+・DANA
+・GOPAY
+・BANK
+・QRIS ALL PAYMENT 2+
+
+NOTE : PROSES PALING CEPAT 7JAM DAN PROSES PALING LAMBAT 2HARI**}{color:2F3136}
+};;;users;yes]`}
